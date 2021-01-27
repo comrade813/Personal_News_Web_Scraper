@@ -1,0 +1,15 @@
+Ship
+Submarine
+Weapon
+China
+Missile
+Carrier
+Bomber
+Russia
+War
+Technology
+AI
+ML 
+Intelligence
+Google
+Math
